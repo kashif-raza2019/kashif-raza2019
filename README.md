@@ -1,4 +1,4 @@
-<img src="back.jpg" width="110%" height="200px" style="margin-left: auto;">
+<img src="back.jpg" width="110%" height="260px" style="margin-left: 0px; margin-right: 0px;">
 
 #   <pre>                    Hey There, I am Kashif Raza 👦<br />                      Welcome to My Git-House👋🏻</pre>
 
