@@ -1,4 +1,4 @@
-![Back Image](https://github.com/kashif-raza2019/kashif-raza2019/asset/back.png)
+![Back Image](https://github.com/kashif-raza2019/kashif-raza2019/blob/master/back.png?raw=true)
 ###                                         Hey There, I am Kashif Raza 👦 <br/> Welcome to My Git-House👋🏻
 
 
