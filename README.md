@@ -23,7 +23,7 @@
   
   <div align="center">
    <h2>My Github Stats</h2><br />
-    ![Kashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashif-raza2019)
+    <img src='https://github-readme-stats-pi-sooty.vercel.app/api?username=kashif-raza2019' width="100%" height="100%">
 <br />
     
 
