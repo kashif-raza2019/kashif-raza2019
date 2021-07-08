@@ -23,7 +23,7 @@
   
   <div align="center">
    <h2>My Github Stats</h2><br />
-    [![Kashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashif-raza2019)](https://github.com/kashif-raza2019/github-readme-stats)
+    ![Kashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashif-raza2019)
 <br />
     
 
