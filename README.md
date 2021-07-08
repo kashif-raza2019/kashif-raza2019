@@ -1,4 +1,4 @@
-<img src="back2.jpg" style="margin-left: 0px; margin-right: 0px;">
+<div align="center"><img src="back2.jpg" style="margin-left: 0px; margin-right: 0px;" height="200px" width="70%" ></div>
 <div align="center">
 <h1> Hey There, I am Kashif Raza 👦<br />
  Welcome to My Git-House👋🏻</h1>
@@ -23,10 +23,7 @@
   
   <div align="center">
    <h2>My Github Stats</h2><br />
-    <img src='https://github-readme-stats-pi-sooty.vercel.app/api?username=kashif-raza2019' width="100%" height="100%">
-<br />
-    
-
+    <img src='https://github-readme-stats-pi-sooty.vercel.app/api?username=kashif-raza2019&show_icons=true&theme=radical' width="60%" height="60%"><br />
   </div>
   <div align="center"><h2>Connect with me via:<br /><br />
   <a href='https://www.linkedin.com/in/kashif-raza-994232189/' ><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
