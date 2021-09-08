@@ -1,5 +1,6 @@
 <?php
   //session_start();
+  $ipAdd = "";
    function getIPAddress() {  
     //whether ip is from the share internet  
      if(!emptyempty($_SERVER['HTTP_CLIENT_IP'])) {  
