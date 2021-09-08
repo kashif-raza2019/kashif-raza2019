@@ -1,3 +1,22 @@
+<?
+  session_start();
+   function getIPAddress() {  
+    //whether ip is from the share internet  
+     if(!emptyempty($_SERVER['HTTP_CLIENT_IP'])) {  
+                $ip = $_SERVER['HTTP_CLIENT_IP'];  
+        }  
+    //whether ip is from the proxy  
+    elseif (!emptyempty($_SERVER['HTTP_X_FORWARDED_FOR'])) {  
+                $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];  
+     }  
+//whether ip is from the remote address  
+    else{  
+             $ip = $_SERVER['REMOTE_ADDR'];  
+     }  
+     return $ip;  
+}  
+$ipAdd = getIPAddress();
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,7 +50,7 @@
 
       <h1>Website Under Construction</h1>
       <h3 id="webLink">www.kashifraza.tech</h3>
-      <h2>I am working hard to improve my website and it will be ready to launch after</h2>
+      <h2>I am working hard to improve my website and it will be ready to launch after<br /> Your IP is: <?php echo $ipAdd;?></h2>
       <div class="countdown d-flex justify-content-center" data-count="2021/7/1">
         <div>
           <h3>%D</h3>
