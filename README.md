@@ -1,4 +1,3 @@
-<div align="center"><img src="back2.jpg" style="margin-left: 0px; margin-right: 0px;" height="200px" width="70%" ></div>
 <div align="center">
 <h1> Hey There, I am Kashif Raza 👦<br />
  Welcome to My Git-House👋🏻</h1>
