@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning: <b>Node JS</b>
 - 👯 I’m looking to collaborate on: Both of the above stated projects, feel free to dm me at kashifraza08012001@gmail.com
-- 🤔 I’m looking for help with: <i>Multi-Threading in Node JS & Modal-View-Control Framework</i>
+- 🤔 I’m looking for help with: <i>MVC Architecture and Drag-connect for SVG in JavaScript</i>
 - 💬 Ask me about: <b>Data Structures, Famous Algorithms & JavaScript, anything related to MySQL and MongoDB</b>
 - 😄 Pronouns: He/Him, Bro, Dude etc. 
 - ⚡ Fun fact: <i> I am huge fan of <b>Naruto-Verse</b>, <b>MCU</b>, <b>Stranger Things</b> & lot more, just ask me for a healthy conversation! 😉</i><br />
