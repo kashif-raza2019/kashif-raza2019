@@ -22,6 +22,7 @@
    <h2>My Github Stats</h2><br />
     <img src='https://github-readme-stats-pi-sooty.vercel.app/api?username=kashif-raza2019&show_icons=true&theme=radical' width="60%" height="60%"><br />
   </div>
+  <img src = 'https://www.holopin.me/kashifraza'>
   <div align="center"><h2>Connect with me via:<br /><br />
   <a href='https://www.linkedin.com/in/kashif-raza-994232189/' ><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
   <a href='https://www.instagram.com/kashifrazareal/' ><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
